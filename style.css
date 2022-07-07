@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(204, 144, 216);
+}
+h1 {
+  color: black;
+}
+
+ul,
+ol {
+  font-family: cursive;
+}
+
+ul li {
+  list-style: none;
+  background-color: chocolate;
+}
+
+ul > a {
+  text-decoration: none;
+}
+
+.liEspecial {
+  font-style: italic;
+}
+
+.tamanho {
+  font-size: 40px;
+}
+
+#elMejor {
+  font-weight: bold;
+}
